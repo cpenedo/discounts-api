@@ -37,7 +37,7 @@ $ vendor/bin/phpunit
 
 * **URL**
 
-  /api/discounts/order
+  /api/discount/order
 
 * **Method:**
 
@@ -67,7 +67,7 @@ $ vendor/bin/phpunit
 
 * **URL**
 
-  /api/discounts/discount
+  /api/discount/discount
 
 * **Method:**
 
@@ -95,7 +95,7 @@ $ vendor/bin/phpunit
 
 * **URL**
 
-  /api/discounts/customer
+  /api/discount/customer
 
 * **Method:**
 
@@ -118,7 +118,7 @@ $ vendor/bin/phpunit
 
 * **URL**
 
-  /api/discounts/customers
+  /api/discount/customers
 
 * **Method:**
 
@@ -155,7 +155,7 @@ $ vendor/bin/phpunit
 
 * **URL**
 
-  /api/discounts/product
+  /api/discount/product
 
 * **Method:**
 
@@ -178,7 +178,7 @@ $ vendor/bin/phpunit
 
 * **URL**
 
-  /api/discounts/products
+  /api/discount/products
 
 * **Method:**
 
@@ -209,7 +209,7 @@ $ vendor/bin/phpunit
 
 * **URL**
 
-  /api/discounts/category
+  /api/discount/category
 
 * **Method:**
 
@@ -230,7 +230,7 @@ $ vendor/bin/phpunit
 
 * **URL**
 
-  /api/discounts/categories
+  /api/discount/categories
 
 * **Method:**
 
