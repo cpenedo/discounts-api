@@ -1,0 +1,11 @@
+{
+	"name": "Free Switches",
+	"description": "For every product of category \"Switches\" (id 2), when you buy five, you get a sixth for free.",
+    "minimum_customer_revenue": "",
+    "total_order_discount_percent": "",
+    "category_id": "2",
+    "multiple_products_same_category": "5",
+    "free_category_products": "1",
+    "minimum_quantity_same_category": "",
+    "cheapest_product_discount_percent": ""
+}

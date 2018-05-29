@@ -1,0 +1,11 @@
+{
+	"name": "10% Total Discount",
+	"description": "A customer who has already bought for over € 1000, gets a discount of 10% on the whole order.",
+    "minimum_customer_revenue": "1000",
+    "total_order_discount_percent": "10",
+    "category_id": "",
+    "multiple_products_same_category": "",
+    "free_category_products": "",
+    "minimum_quantity_same_category": "",
+    "cheapest_product_discount_percent": ""
+}

@@ -1,0 +1,11 @@
+{
+	"name": "Tools Discount",
+	"description": "If you buy two or more products of category \"Tools\" (id 1), you get a 20% discount on the cheapest product.",
+    "minimum_customer_revenue": "",
+    "total_order_discount_percent": "",
+    "category_id": "1",
+    "multiple_products_same_category": "",
+    "free_category_products": "",
+    "minimum_quantity_same_category": "2",
+    "cheapest_product_discount_percent": "20"
+}
